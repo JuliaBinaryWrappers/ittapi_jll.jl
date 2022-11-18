@@ -1,0 +1,52 @@
+[[ittapi]]
+arch = "i686"
+git-tree-sha1 = "1c294e14e8c2f3a926bda16c6a0f27b0521463d5"
+libc = "glibc"
+os = "linux"
+
+    [[ittapi.download]]
+    sha256 = "00d9fb13772309e3fceb9d63a0a727dc01a970717f8e0e966b23bd9143bf7356"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.23.0+0/ittapi.v3.23.0.i686-linux-gnu.tar.gz"
+[[ittapi]]
+arch = "i686"
+git-tree-sha1 = "ad9a063489883fdecd2ca2fd62d4fed68864da3e"
+libc = "musl"
+os = "linux"
+
+    [[ittapi.download]]
+    sha256 = "ca338388d4a3077796af287f2a64c0d9ac179018a41f96faca604be6bbaa84f4"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.23.0+0/ittapi.v3.23.0.i686-linux-musl.tar.gz"
+[[ittapi]]
+arch = "x86_64"
+git-tree-sha1 = "dd2d2a2f17dda3ce0c5c74bc5abc8cba3c8ea9cb"
+os = "macos"
+
+    [[ittapi.download]]
+    sha256 = "5d477915cc5945e84f142360e4fb2fa05383949a9a0e861fcbadab84e95c8d5f"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.23.0+0/ittapi.v3.23.0.x86_64-apple-darwin.tar.gz"
+[[ittapi]]
+arch = "x86_64"
+git-tree-sha1 = "c0d10b517c2a086fa01e9cbda85943178a844a08"
+libc = "glibc"
+os = "linux"
+
+    [[ittapi.download]]
+    sha256 = "8b5bb7f79c5a98aa87a3f37a384331836a6ecb536ec0f2419341e706d288b2e8"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.23.0+0/ittapi.v3.23.0.x86_64-linux-gnu.tar.gz"
+[[ittapi]]
+arch = "x86_64"
+git-tree-sha1 = "64be477dcdafaaa8c4203a01d4581506a35b9bca"
+libc = "musl"
+os = "linux"
+
+    [[ittapi.download]]
+    sha256 = "0f64e8d8a3fd34cad40a61d1bc2e1f6e9c1b9c48acd54033a89f10f1e4e4c1f9"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.23.0+0/ittapi.v3.23.0.x86_64-linux-musl.tar.gz"
+[[ittapi]]
+arch = "x86_64"
+git-tree-sha1 = "e90dd88019526ecbad2b5a998cfcfc25c0d803a1"
+os = "freebsd"
+
+    [[ittapi.download]]
+    sha256 = "4827fe18f3cc7deeebadc8ec0217dda8d4b3e702d0a959b843ada26dd11d6237"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.23.0+0/ittapi.v3.23.0.x86_64-unknown-freebsd.tar.gz"
