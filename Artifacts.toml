@@ -1,52 +1,52 @@
 [[ittapi]]
 arch = "i686"
-git-tree-sha1 = "df37525b7d11c326447703c41d91d2a8d1f94add"
+git-tree-sha1 = "e597d8730ad63e48c4c8b7aabf271135dca18fdd"
 libc = "glibc"
 os = "linux"
 
     [[ittapi.download]]
-    sha256 = "4f785c0db035a4b90f1c85fcd042dae51eb0d3733d940349f4a94cdf27540c27"
-    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.24.4+0/ittapi.v3.24.4.i686-linux-gnu.tar.gz"
+    sha256 = "358ea573576d503d64121e8e8bc5e1b9c6a64c8f29f06898bd2c8b839470068b"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.25.5+0/ittapi.v3.25.5.i686-linux-gnu.tar.gz"
 [[ittapi]]
 arch = "i686"
-git-tree-sha1 = "22f7826c1c8e44f8583c8b20d2f64379c7574efd"
+git-tree-sha1 = "c0afcb7bb3c0e19f4ab83ad41be944e9894e7ac2"
 libc = "musl"
 os = "linux"
 
     [[ittapi.download]]
-    sha256 = "ae694b452cc505c72e000f1c285f31511b5e1d925ca7a47c1177c87ca88fe7d7"
-    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.24.4+0/ittapi.v3.24.4.i686-linux-musl.tar.gz"
+    sha256 = "2b9fb01a4f214d7e057d4bb71e91d710004fa09ae363f1f5ef5cafa3d47f8732"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.25.5+0/ittapi.v3.25.5.i686-linux-musl.tar.gz"
 [[ittapi]]
 arch = "x86_64"
-git-tree-sha1 = "cf19c0bc244ff491048ee4503e649609fad7ee9a"
+git-tree-sha1 = "f797fd3c8a84298c5db22b02e8053eacefb3cdae"
 os = "macos"
 
     [[ittapi.download]]
-    sha256 = "0747eacb9ded1adff2927a07cb60b20fb109acba10e1b9201e2f4ed0d243c912"
-    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.24.4+0/ittapi.v3.24.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "a37a4c1479ab2be9ba2e9cb76972342b6c7d8c84746570c64cbc4be4d66ee37a"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.25.5+0/ittapi.v3.25.5.x86_64-apple-darwin.tar.gz"
 [[ittapi]]
 arch = "x86_64"
-git-tree-sha1 = "b16fca1cfafcf2e41681d8f75ff141c8dfdcb0d0"
+git-tree-sha1 = "9c595fc9f26498a6c07134c36a6c3028405ee199"
 libc = "glibc"
 os = "linux"
 
     [[ittapi.download]]
-    sha256 = "08d3b10cfae3eed211300003bf40072cdfd460784abaca1c269197bd8612117c"
-    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.24.4+0/ittapi.v3.24.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "ccbc41ca083a066744df924e2f0eddedf6f128fa7bf8de4e38ec8229d02508b6"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.25.5+0/ittapi.v3.25.5.x86_64-linux-gnu.tar.gz"
 [[ittapi]]
 arch = "x86_64"
-git-tree-sha1 = "51ee181b73a3dbbf8e6020a31bca696c2a32c348"
+git-tree-sha1 = "3fa5a5c1a61313ce269b55a2583efe5cdd128d80"
 libc = "musl"
 os = "linux"
 
     [[ittapi.download]]
-    sha256 = "76b455334b192610298fb71bec451d5ae34516ab916d1fe75ae03f9fa2398873"
-    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.24.4+0/ittapi.v3.24.4.x86_64-linux-musl.tar.gz"
+    sha256 = "0f5d3b0844bf7089fc0418a34a5617cd7f3a3004e19a227734b99e29b0c33c8c"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.25.5+0/ittapi.v3.25.5.x86_64-linux-musl.tar.gz"
 [[ittapi]]
 arch = "x86_64"
-git-tree-sha1 = "34ad910e385a1d08bae06675d9b301907401ff2e"
+git-tree-sha1 = "2b3fcce71d97b711c490d78cf8e56c4f0d2dc02c"
 os = "freebsd"
 
     [[ittapi.download]]
-    sha256 = "6da6c2f45fa26bf4616e0a2159c8d29635c9c3351a636f2dfc6ad3c61339b9a6"
-    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.24.4+0/ittapi.v3.24.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "fc4fd76d7af574093daa52ef254c57db25e661921af67513933f1cbf910e00dd"
+    url = "https://github.com/JuliaBinaryWrappers/ittapi_jll.jl/releases/download/ittapi-v3.25.5+0/ittapi.v3.25.5.x86_64-unknown-freebsd.tar.gz"
